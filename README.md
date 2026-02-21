@@ -21,7 +21,7 @@ The project is **not an official website** and is not affiliated with any organi
 
 ## Live Demo
 
-The website is hosted on Netlify:  
+The website is hosted here:  
 👉 https://markoj612.github.io/drinska-stena.github.io
 
 ## Notes
